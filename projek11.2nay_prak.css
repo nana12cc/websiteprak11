@@ -1,0 +1,35 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer{
+    background-color: rgb(95, 73, 88, 0.86);
+    color: aliceblue;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav{
+    background-color: rgb(243, 241, 238);
+    padding: 1em;
+}
+
+nav ul li{
+    display: inline;
+    margin-right: 10px;
+}
+
+li:hover{
+    background-color: azure;
+    color: rgb(255, 255, 255);
+}
+
+.div{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
